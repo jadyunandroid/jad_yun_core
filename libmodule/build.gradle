@@ -44,6 +44,6 @@ repositories {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    embed(name: 'jad_yun_sdk_v1.5.1', ext: 'aar')
+    embed(name: 'jad_yun_core_v1.5.1', ext: 'aar')
 
 }
